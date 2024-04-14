@@ -1,6 +1,6 @@
 # 👋 Hi I’m Arthur
 
-I  graduated with a degree in Computer Science, here you can find some university and personal project i have completed.
+With a degree in Computer Science, here you can find some personal project I have completed.
 
 - 👀 I’m interested especially in ... Full Stack Web Development focusing on React applications as well as C# and Rest API architectures to build real world appliciances
 - 🌱 I’m currently increasing my knowledge with React and building and using API's
